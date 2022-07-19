@@ -2,6 +2,8 @@ package com.github;
 
 public class GitHubDemo {
 
+	
+	
 	private void method1() {
 		System.out.println("From Method ~ 1");
 	}
